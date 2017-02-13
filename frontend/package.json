@@ -1,0 +1,26 @@
+{
+  "name": "node-community-platform",
+  "version": "1.0.0",
+  "description": "Node community platform",
+  "main": "index.js",
+  "scripts": {
+    "start": "gulp index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kmturley/node-community-platform.git"
+  },
+  "keywords": [
+    "node",
+    "community",
+    "platform"
+  ],
+  "author": "kmturley",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kmturley/node-community-platform/issues"
+  },
+  "homepage": "https://github.com/kmturley/node-community-platform#readme",
+  "dependencies": {}
+}

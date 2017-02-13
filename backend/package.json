@@ -1,0 +1,31 @@
+{
+  "name": "node-community-platform",
+  "version": "1.0.0",
+  "description": "Node community platform",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kmturley/node-community-platform.git"
+  },
+  "keywords": [
+    "node",
+    "community",
+    "platform"
+  ],
+  "author": "kmturley",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kmturley/node-community-platform/issues"
+  },
+  "homepage": "https://github.com/kmturley/node-community-platform#readme",
+  "dependencies": {
+    "body-parser": "^1.16.1",
+    "express": "^4.14.1",
+    "mongodb": "^2.2.22",
+    "mongoose": "^4.8.2"
+  }
+}
